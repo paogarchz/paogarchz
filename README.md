@@ -1,6 +1,6 @@
 
 ![Banner Pao](./Banner%20Git.png)
-<h2>Hola! Yo soy Pao Garcia</h2>
+<h2>¡Bienvenid@s! Estoy encantada de tenerte por aquí</h2>
 
 <!-- ## 👋 &nbsp;Hey there! I'm Aditya -->
 
